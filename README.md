@@ -1,16 +1,26 @@
-# geeta_ji
+📖 Shrimad Bhagavad Gita App (Flutter)
+A spiritually enriching mobile app developed using Flutter that provides complete access to the Shrimad Bhagavad Gita – all 18 chapters and 700 shlokas – with clean UI and modern features for easy reading and listening.
 
-A new Flutter project.
+✨ Features
+📚 Complete Gita – All 18 chapters and 700+ shlokas
 
-## Getting Started
+🌐 Multi-language Support – Shloka meanings in Hindi & English
 
-This project is a starting point for a Flutter application.
+🔊 Text-to-Speech – Listen to any shloka with voice playback
 
-A few resources to get you started if this is your first Flutter project:
+⭐ Add to Favorites – Save your favorite verses
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📤 Shloka Sharing – Share shlokas with friends and family
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔄 Chapter-wise Navigation – Easy and intuitive navigation
+
+📱 Responsive UI – Clean and user-friendly Flutter interface
+
+🔧 Tech Stack
+Flutter (Dart)
+
+Firebase (optional: for storage, analytics)
+
+TTS Plugin – For voice support
+
+Android/iOS Compatible
